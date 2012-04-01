@@ -1,0 +1,1 @@
+var INSPIRING_URLS = ["http://dribbble.com","http://flickr.com"];

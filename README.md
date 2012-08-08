@@ -8,6 +8,10 @@ You could also put your Facebook but the idea is not to get too distracted to av
 
 ###Try it out
 
+####From Chrome store
+Visit: https://chrome.google.com/webstore/detail/jljbfjieapkkmdhfngjbdjmchoknjlek
+
+####From source
 1. Download the latest ZIP file in the [Downloads section](https://github.com/nuthinking/New-Inspiring-Tab-/downloads).
 2. Uncompress it.
 3. Launch Chrome and go Tools>Extensions (or Preferences then Extensions).
